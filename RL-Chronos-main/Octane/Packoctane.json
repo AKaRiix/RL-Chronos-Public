@@ -1,0 +1,100 @@
+{
+    "Octane": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Classic.png",
+			
+			"Skin": "HyperBeast_Diffuse_Classic.png"
+		}
+    },	
+	"Octane La Torche": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_torche.png",
+			
+			"Skin": "HyperBeast_Diffuse_torche.png"
+		}
+    },	
+	"Octane Darki": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Darki.png",
+			
+			"Skin": "HyperBeast_Diffuse_Darki.png"
+		}
+    },	
+	"Octane Jordanax": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Jordanax.png",
+			
+			"Skin": "HyperBeast_Diffuse_Jordanax.png"
+		}
+    },	
+	"Octane Nuggets": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Nuggets.png",
+			
+			"Skin": "HyperBeast_Diffuse_Nuggets.png"
+		}
+    },	
+	"Octane Shrek": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Shrek.png",
+			
+			"Skin": "HyperBeast_Diffuse_Shrek.png"
+		}
+    },	
+	"Octane AKaRiix": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_O.png",
+		
+			"Skin": "HyperBeast_Diffuse_O.png"
+		}
+    }
+}

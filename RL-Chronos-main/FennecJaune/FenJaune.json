@@ -1,0 +1,68 @@
+{
+    "FennecJaune": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecJaune AKaRiix": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_akariix.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecJaune Jordanax": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_jordanax.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecJaune Nuggets": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_nuggets.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecJaune Shrek": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_shrek.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecJaune La Torche": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_torche.png",
+			"Skin": "fen_skin.png"
+		}
+    }
+}
