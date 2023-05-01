@@ -83,6 +83,20 @@
 			"Skin": "HyperBeast_Diffuse_Shrek.png"
 		}
     },	
+	"Octane Thunk": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_thunk.png",
+			
+			"Skin": "HyperBeast_Diffuse_thunk.png"
+		}
+    },
 	"Octane AKaRiix": {
 		"BodyID": 23,
 		"SkinID": 0,
