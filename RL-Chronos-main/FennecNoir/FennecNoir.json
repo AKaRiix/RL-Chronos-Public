@@ -65,6 +65,29 @@
 			"Skin": "fen_skin.png"
 		}
     },
+
+  "FennecNoir Ludanif": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_ludanif.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+   "FennecNoir Sudiste": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_sudiste.png",
+			"Skin": "fen_skin.png"
+		}
+    },
    "FennecNoir La Torche": {
 		"BodyID": 4284,
 		"SkinID": 0,

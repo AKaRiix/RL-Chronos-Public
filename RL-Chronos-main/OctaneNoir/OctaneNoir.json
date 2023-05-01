@@ -1,0 +1,144 @@
+{
+    "OctaneNoir Shrek": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_shrek.png",
+			
+			"Skin": "octane_noir_shrek.png"
+		}
+    },    
+    "OctaneNoir Jordanax": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_jordanax.png",
+			
+			"Skin": "octane_noir_jordanax.png"
+		}
+    },   
+    "OctaneNoir Thunk": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_thunk.png",
+			
+			"Skin": "octane_noir_thunk.png"
+		}
+    }, 
+   "OctaneNoir La Torche": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_torche.png",
+			
+			"Skin": "octane_noir_torche.png"
+		}
+    }, 
+  "OctaneNoir Darki": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_darki.png",
+			
+			"Skin": "octane_noir_darki.png"
+		}
+    }, 
+  	  "OctaneNoir Nuggets": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_nuggets.png",
+			
+			"Skin": "octane_noir_nuggets.png"
+		}
+    }, 
+  	  "OctaneNoir AKaRiix": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_akariix.png",
+			
+			"Skin": "octane_noir_akariix.png"
+		}
+    }, 
+  	  "OctaneNoir Sudiste": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_sudiste.png",
+			
+			"Skin": "octane_noir_sudiste.png"
+		}
+    }, 
+  	  "OctaneNoir Ludanif": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_ludanif.png",
+			
+			"Skin": "octane_noir_ludanif.png"
+		}
+    }, 
+
+"Octane Classic": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_Classic.png",
+			
+			"Skin": "octane_noir_Classicpng"
+		}
+    }
+	
+}

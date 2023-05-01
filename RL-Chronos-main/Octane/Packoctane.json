@@ -97,6 +97,34 @@
 			"Skin": "HyperBeast_Diffuse_thunk.png"
 		}
     },
+	"Octane Sudiste": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_thunk.png",
+			
+			"Skin": "HyperBeast_Diffuse_sudiste.png"
+		}
+    },
+	"Octane Ludanif": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_thunk.png",
+			
+			"Skin": "HyperBeast_Diffuse_ludanif.png"
+		}
+    },
 	"Octane AKaRiix": {
 		"BodyID": 23,
 		"SkinID": 0,

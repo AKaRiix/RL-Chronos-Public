@@ -82,6 +82,28 @@
 			"Skin": "fen_skin.png"
 		}
     },
+	"FennecBlanche Ludanif": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_W_ludanif.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecBlanche Sudiste": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_sudiste.png",
+			"Skin": "fen_skin.png"
+		}
+    },
 
 	"FennecBlanche La Torche": {
 		"BodyID": 4284,
